@@ -1,2 +1,10 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
+# Ignora todo por defecto
 *
+
+# Pero NO ignores estos archivos/directorios:
+!.gitignore
+!README.md
+!app.py
+!*.ipynb
+!*.csv
+!*.txt
